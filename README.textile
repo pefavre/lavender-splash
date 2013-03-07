@@ -1,7 +1,9 @@
-h1. Splash page based on "Rails Prelaunch Signup":https://github.com/RailsApps/rails-prelaunch-signup and ebay-inspired "scrolling effect":http://pepsized.com/how-to-recreate-the-new-e-bay-site-scrolling-effect/
+h1. Splash page based on Rails Prelaunch Signup and ebay-inspired scrolling effect
 
 
 Rails 3.2 example application for a “beta launching soon” startup prelaunch signup site.
+
+Inspired by "Rails Prelaunch Signup":https://github.com/RailsApps/rails-prelaunch-signup and ebay-like "scrolling effect":http://pepsized.com/how-to-recreate-the-new-e-bay-site-scrolling-effect/
 
 !{width:90%}http://pepsized.com/wp-content/uploads/2012/11/From-love-for-lavender.jpg(Rails Application for a Startup Prelaunch Signup Site)!
 
