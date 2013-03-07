@@ -1,16 +1,4 @@
-Rails Prelaunch Signup
-========================
-
-An example Rails 3.2 app for a web startup prelaunch page.
-
-You can use this project as a starting point for a Rails web application. It requires Rails 3.2 or newer and uses Devise http://github.com/plataformatec/devise for user management and authentication.
-________________________
-
-See the README file on GitHub
-
-For more information, please see the updated README file on GitHub:
-
-https://github.com/railsapps/rails-prelaunch-signup
+Splash page based on Rails Prelaunch Signup https://github.com/RailsApps/rails-prelaunch-signup and ebay-inspired scrolling effect http://pepsized.com/how-to-recreate-the-new-e-bay-site-scrolling-effect/
 
 ________________________
 

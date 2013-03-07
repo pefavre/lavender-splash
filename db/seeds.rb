@@ -18,3 +18,4 @@ puts 'user: ' << user.name
 user.add_role :admin
 user.skip_confirmation!
 user.save!
+100.times {|i| User.create! :name => "User #{i+3}", :email => "user#{i+3}@example.com", :password => 'changeme', :password_confirmation => 'changeme'}
